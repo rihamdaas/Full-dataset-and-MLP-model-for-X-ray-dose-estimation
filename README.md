@@ -27,7 +27,7 @@ This dataset provides a controlled environment for studying how X-ray image feat
 
 
 
-##  Example Features (Sample)
+##  Example Features 
 
 | noise_var | sharpness | entropy | mean_intensity | std_intensity | image            | scale | noise_std |
 | --------- | --------- | ------- | -------------- | ------------- | ---------------- | ----- | --------- |
