@@ -101,7 +101,7 @@ cd Full-dataset-and-MLP-model-for-X-ray-dose-estimation
 
 ##  References
 
-* NIH ChestX-ray14 Dataset: [Link](https://www.nih.gov/research/resources/nih-chest-x-ray-dataset)
+* NIH ChestX-ray14 Dataset: [Link](https://www.kaggle.com/datasets/nih-chest-xrays/sample)
 * Physics-based feature extraction methods (Noise, Sharpness, Entropy)
 
 
